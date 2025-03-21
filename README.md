@@ -28,7 +28,7 @@ It establishes a connection to a server and responds to various commands sent re
 
 ## ⚙️ Usage Instructions (Local Test Only)
 
-1. Set up a listener server to receive connections (not included in this repo).
+1. Set up a listener server to receive connections ([Backdoor serveur](backdoor_serveur.py)).
 2. Run this script on a test machine (preferably in a VM).
 3. Send commands from the server and receive responses or files accordingly.
 
